@@ -6,4 +6,4 @@ Dana, a data journalist, wants to put together a website to store the sightings 
 
 
 
-![website](images/website.png)
+![website](static/images/website.png)
